@@ -1,4 +1,3 @@
-# 44-563 W04 Learning JavaScript and JQuery with User Interaction
 
 Learning JavaScript and jQuery by interacting with a user. 
 
